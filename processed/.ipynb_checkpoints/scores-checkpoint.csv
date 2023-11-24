@@ -1,0 +1,113 @@
+Variable	Valor	Score
+workclass	State-gov	0.0710199094391002
+workclass	Self-emp-not-inc	0.09906065144965322
+workclass	Private	-0.05436092631068591
+workclass	Federal-gov	0.2979356273884848
+workclass	Local-gov	0.11987581910675951
+workclass	?	-0.43645552247772496
+workclass	Self-emp-inc	0.5987404483277123
+workclass	Without-pay	-inf
+workclass	Never-worked	-inf
+education	Bachelors	0.34912657897644317
+education	HS-grad	-0.2230720991777692
+education	11th	-0.7704466044399954
+education	Masters	0.5974022611555142
+education	9th	-0.7574881844951065
+education	Some-college	-0.13039287518115975
+education	Assoc-acdm	0.017748518213184915
+education	Assoc-voc	0.047158472379288156
+education	7th-8th	-0.6817356202777833
+education	Doctorate	0.9550146613569109
+education	Prof-school	0.9403259491179841
+education	5th-6th	-0.7982622670012861
+education	10th	-0.6489494529488687
+education	1st-4th	-0.9326867515984468
+education	Preschool	-inf
+education	12th	-0.5848690388895343
+marital-status	Never-married	-0.8185009103077662
+marital-status	Married-civ-spouse	0.4059928546294824
+marital-status	Divorced	-0.43562506849519417
+marital-status	Married-spouse-absent	-0.554175294764735
+marital-status	Separated	-0.6635976590682543
+marital-status	Married-AF-spouse	0.3847336602537037
+marital-status	Widowed	-0.5299899102462519
+occupation	Adm-clerical	-0.3099321018939984
+occupation	Exec-managerial	0.47089662279832417
+occupation	Handlers-cleaners	-0.6753895599287262
+occupation	Prof-specialty	0.4098311170557906
+occupation	Other-service	-0.864014545955328
+occupation	Sales	0.0652075147028
+occupation	Craft-repair	-0.03436653566356914
+occupation	Transport-moving	-0.10236390638296874
+occupation	Farming-fishing	-0.3846140221596197
+occupation	Machine-op-inspct	-0.34691708059948384
+occupation	Tech-support	0.14090373344956308
+occupation	?	-0.4382996631760953
+occupation	Protective-serv	0.18148535735413363
+occupation	Armed-Forces	-0.404412974431403
+occupation	Priv-house-serv	-1.6715847028344168
+relationship	Not-in-family	-0.440947197036533
+relationship	Husband	0.40901897572720985
+relationship	Wife	0.4554334500965636
+relationship	Own-child	-1.3743050392863008
+relationship	Unmarried	-0.6718000198848875
+relationship	Other-relative	-0.9080932576705334
+race	White	0.035024613847091525
+race	Black	-0.35088681983067166
+race	Asian-Pac-Islander	0.05706155667087776
+race	Amer-Indian-Eskimo	-0.38435318050243483
+race	Other	-0.49431808587080095
+sex	Male	0.14250012507871523
+sex	Female	-0.41171835243516264
+native-country	United-States	0.01185379534698549
+native-country	Cuba	0.05151898121832133
+native-country	Jamaica	-0.35258133615853476
+native-country	India	0.32258575350485935
+native-country	?	0.02254843137455578
+native-country	Mexico	-0.768138882572339
+native-country	South	-0.1033829787674218
+native-country	Puerto-Rico	-0.4307419131537522
+native-country	Honduras	-0.5805042334870842
+native-country	England	0.19764701689655934
+native-country	Canada	0.17592776720332307
+native-country	Germany	0.17364674049279283
+native-country	Iran	0.356009508991809
+native-country	Philippines	0.14728628041490077
+native-country	Italy	0.21537578385699097
+native-country	Poland	-0.1033829787674218
+native-country	Columbia	-0.9561678474479696
+native-country	Cambodia	0.26459380652717257
+native-country	Thailand	-0.20029299177547819
+native-country	Ecuador	-0.27947423782310304
+native-country	Laos	-0.404412974431403
+native-country	Taiwan	0.30834531439024904
+native-country	Haiti	-0.5013229874394595
+native-country	Portugal	-0.4177769359893845
+native-country	Dominican-Republic	-1.0328019044817145
+native-country	El-Salvador	-0.5338522122663795
+native-country	France	0.3474093372298914
+native-country	Guatemala	-0.8095315677305641
+native-country	China	0.059344318730277824
+native-country	Japan	0.29910465765533645
+native-country	Yugoslavia	0.27682826294418417
+native-country	Peru	-0.6626909896744343
+native-country	Outlying-US(Guam-USVI-etc)	-inf
+native-country	Scotland	0.021555757840878063
+native-country	Trinadad&Tobago	-0.43074191315375215
+native-country	Greece	0.07954770481856492
+native-country	Nicaragua	-0.7054429700953841
+native-country	Vietnam	-0.5947446726016945
+native-country	Hong	0.13070022726594616
+native-country	Ireland	-0.08110658405626961
+native-country	Hungary	-0.02420173271979703
+native-country	Holand-Netherlands	-inf
+age-bins	(33.0, 41.0]	0.15881082370683242
+age-bins	(41.0, 50.0]	0.29485415531497605
+age-bins	(50.0, 90.0]	0.1807968351753981
+age-bins	(26.0, 33.0]	-0.16285917420325247
+age-bins	(16.999, 26.0]	-1.099624963489866
+hours-per-week-bins	(20.6, 40.2]	-0.13385773419988115
+hours-per-week-bins	(0.902, 20.6]	-0.6479280077696021
+hours-per-week-bins	(40.2, 59.8]	0.32403374787949135
+hours-per-week-bins	(79.4, 99.0]	0.23346598492305468
+hours-per-week-bins	(59.8, 79.4]	0.3501590898748804
